@@ -47,7 +47,7 @@ The code requires the following Python libraries:
 - **Pokémon dataset** – loaded directly from a public GitHub repository:  
   [https://raw.githubusercontent.com/omkarsawant30/Pokemon---Gotta-catch-Em-all-/master/Pokemon.csv](https://raw.githubusercontent.com/omkarsawant30/Pokemon---Gotta-catch-Em-all-/master/Pokemon.csv)
 - **Au nanoparticle dataset** – must be downloaded from the provided Google Drive link and uploaded to Colab (or placed in the local directory).  
-  [Google Drive folder](https://drive.google.com/drive/folders/1 6- GpmILQB4- 8rMf5oW604pP1Nx54dYx?usp=sharing)
+  [Google Drive folder](https://drive.google.com/drive/folders/1_6-GpmILQB4-8rMf5oW604pP1Nx54dYx?usp=sharing)
 
 ## Tasks & Solutions
 
@@ -67,9 +67,3 @@ The code requires the following Python libraries:
    - Diagonal: histogram + KDE.  
    - Upper triangle: bivariate histogram.  
    - Lower triangle: bivariate KDE.
-
-## Running the Notebook
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/se4050-lab1-solution.git
-   cd se4050-lab1-solution
