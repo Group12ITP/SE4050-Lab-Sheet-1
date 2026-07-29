@@ -67,9 +67,3 @@ The code requires the following Python libraries:
    - Diagonal: histogram + KDE.  
    - Upper triangle: bivariate histogram.  
    - Lower triangle: bivariate KDE.
-
-## Running the Notebook
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/se4050-lab1-solution.git
-   cd se4050-lab1-solution
